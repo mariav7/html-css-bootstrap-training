@@ -78,6 +78,12 @@ section .row img {
   margin: 0 0 30px;
 }
 
+.see-all-btn {
+  max-width: 200px;
+  margin: 0 auto;
+  display: block;
+}
+
 footer {
   font-size: 12px;
   padding: 20px 0;
